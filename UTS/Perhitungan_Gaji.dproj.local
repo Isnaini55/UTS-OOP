@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/11/24 19:02:31.338,=C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/24 19:03:22.475,C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\UTS\Perhitungan_Gaji_Karyawan.pas=C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/24 19:03:22.475,C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\UTS\Perhitungan_Gaji_Karyawan.dfm=C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/24 19:04:00.691,C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\Perhitungan_Gaji.dproj=C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/24 19:04:07.144,C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\UTS\Perhitungan_Gaji.dproj=C:\Users\isnaz\Documents\Embarcadero\Studio\Projects\Perhitungan_Gaji.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
